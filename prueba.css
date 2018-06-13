@@ -1,0 +1,29 @@
+body{
+	background-color: #03e2f9;
+}
+.titulo{
+	color:#ec8989;
+	text-align: center;
+	margin-top: 0;
+
+}
+.row{
+	float: left;
+	font-size: 20px;
+}
+.img-responsive{
+	width: 100%;
+}
+
+.active {
+	font-weight: bold;
+}
+
+.image-size {
+	height: 80px;
+}
+
+.blue-grey {
+	background-color:#a8f7ec!important;
+	color:white;
+}
